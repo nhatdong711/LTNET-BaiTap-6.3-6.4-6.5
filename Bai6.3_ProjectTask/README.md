@@ -4,8 +4,8 @@
 
 ## MỤC 1: THÔNG TIN SINH VIÊN
 
-- **Họ và tên sinh viên:** [Điền họ tên]
-- **Mã sinh viên:** [Điền MSV]
+- **Họ và tên sinh viên:** Trần Nhật Đông
+- **Mã sinh viên:** 24810320177
 - **Lớp / Khóa:** D19QTANM1
 
 ## MỤC 2: HÌNH ẢNH KẾT QUẢ CÁC MÀN HÌNH CHỨC NĂNG
