@@ -1,7 +1,7 @@
 # Bài tập 6.3 - 6.4 - 6.5 — Lập trình .NET (D19QTANM1)
 
-- **Họ và tên sinh viên:** [Điền họ tên]
-- **Mã sinh viên:** [Điền MSV]
+- **Họ và tên sinh viên:** Trần Nhật Đông
+- **Mã sinh viên:** 24810320177
 - **Lớp / Khóa:** D19QTANM1
 
 | Bài | Đề tài | Thư mục |
